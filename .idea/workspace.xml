@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d4f84fbb-70cb-4c54-8871-7096a6cc1628" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605771190978</updated>
       <workItem from="1605771192155" duration="290000" />
-      <workItem from="1605771668668" duration="345000" />
+      <workItem from="1605771668668" duration="1632000" />
     </task>
     <servers />
   </component>
